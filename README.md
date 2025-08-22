@@ -8,14 +8,6 @@ A real-time chat application built with Node.js, Express, and Socket.io.
 
 This is a simple real-time chat application that allows users to send and receive messages in a chat room. It is built with a Node.js and Express backend, and it uses Socket.io for real-time communication between the clients and the server.
 
-***
-
-## Screenshots
-
-Here's a sneak peek of what the app looks like!
-
-![Chat_app_ScreenShot1](C:\Users\avina\Desktop\ChatApp_GUVI\frontend\public\ss_for_readme.png)
-
 
 
 
